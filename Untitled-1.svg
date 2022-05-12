@@ -1,0 +1,20 @@
+<svg width="620" height="500" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                <path id="test-path" fill="none" stroke="cyan" stroke-width="1" d="M3.858,58.607 c16.784-5.985,33.921-10.518,51.695-12.99c50.522-7.028,101.982,0.51,151.892,8.283c17.83,2.777,35.632,5.711,53.437,8.628 c51.69,8.469,103.241,11.438,155.3,3.794c53.714-7.887,106.383-20.968,159.374-32.228c11.166-2.373,27.644-7.155,39.231-4.449" />
+                <text>
+                    <textpath xlink:href="#test-path" startoffset="20" font-size="45" stroke="red" fill="none">я хочу сыграть с тобой в игру</textpath>
+                </text>
+                <rect width="20px" height="50px" fill="black" rx="5"ry=5 x="100" y="440"></rect>
+                <rect width="20px" height="50px" fill="black" rx="5"ry=5 x="500" y="440"></rect>
+                <rect width="600px" height="300px" fill="grey" rx="50" ry="50" x="10" y="150"></rect>
+                <rect width="500px" height="250px" fill="aqua" rx="50" ry="50" x="35" y="175"></rect>
+                <rect width="45px" height="90px" fill="black" rx="5" ry="5" x="550" y="230"></rect>
+                <rect width="35px" height="15px" fill="red" rx="5" ry="5" x="555" y="240"></rect>
+                <rect width="35px" height="15px" fill="yellow" rx="5" ry="5" x="555" y="265"></rect>
+                <rect width="35px" height="15px" fill="green" rx="5" ry="5" x="555" y="290"></rect>
+                <circle r="15" fill="black" cx="575" cy="380"></circle>
+                <circle r="120" fill="red" cx="280" cy="300"></circle>
+                <circle r="95" fill="white" cx="280" cy="300"></circle>
+                <circle r="70" fill="red" cx="280" cy="300"></circle>
+                <circle r="45" fill="white" cx="280" cy="300"></circle>
+                <circle r="20" fill="red" cx="280" cy="300"></circle>
+            </svg>
